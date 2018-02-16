@@ -8,7 +8,7 @@ var connectionconfig = {
     //'password': 'turbo@shell99',
     'user':'rinas',
     'password':'intellicar',
-    'database': 'test1',
+    'database': 'docmaster',
     'debug':false
     //'multipleStatements': true
 };
